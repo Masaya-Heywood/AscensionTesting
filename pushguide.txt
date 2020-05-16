@@ -1,0 +1,13 @@
+Quick information on how to push changes to github. (Windows Only)
+
+## Set folder path
+$ cd 'Folder Path Here'
+
+## Track the files you want to push. "git add ." will push the entire directory
+$ git add . 
+
+## Create a commit message
+$ git commit -m "Commit Message"
+
+## Push it!
+$ git push origin master
