@@ -1,0 +1,15 @@
+Attempt,Time (Minutes),Gold,Silver,Copper,Gold Total,Silver Total,Copper Total,Enchant,DPS,Damage Total,Damage Taken,Died,Deaths
+1,5,0,0,0,15,30,50,Test,679,151172,8668,FALSE,0
+2,5,1,75,62,25,2,83,None,832,171122,10581,FALSE,0
+3,5,2,10,3,36,54,87,None,723,150278,8418,FALSE,0
+4,5,1,62,70,30,57,35,None,893,173341,11098,FALSE,0
+5,5,2,5,2,15,98,71,Money,791,166508,9255,FALSE,0
+6,5,1,85,94,22,90,87,Money,885,163547,8120,FALSE,0
+7,5,1,92,17,11,91,88,Money,677,142103,9044,FALSE,0
+8,5,1,41,17,22,71,32,Meat,711,160102,10822,FALSE,0
+9,5,2,3,12,27,19,27,Meat,777,169479,8418,FALSE,0
+10,5,1,99,10,22,39,86,Meat,897,191980,10200,FALSE,0
+11,5,,,,,,,Damage,,,,,
+12,5,,,,,,,Damage,,,,,
+13,5,,,,,,,Damage,,,,,
+14,5,,,,,,,,,,,,
