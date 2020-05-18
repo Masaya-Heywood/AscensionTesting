@@ -1,0 +1,7 @@
+Build Category Descriptions
+All builds have talent points placed in appropiate int, crit and spell damage talents.
+
+Basic - No extra random enchantments.
+Double Hit - Double hit RE, [Boomer].
+Demon - Demon proc RE [Raising Hell] with extra talents put in the demonology tree.
+Duplicate - Target duplicates hellfire RE, [Inferno]
